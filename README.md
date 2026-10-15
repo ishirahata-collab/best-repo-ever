@@ -2,5 +2,5 @@
 
 test repo
 
-Change made on 10/15 - Ichiro
+Change xxxxx made on 10/15 - Ichiro
 
