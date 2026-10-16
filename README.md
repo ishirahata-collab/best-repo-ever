@@ -2,9 +2,7 @@
 
 test repo
 
-Change made on 10/15 - Ichiro
+Change reverted on 10/16 - Ichiro
 
 Second change 10/15 - BB
-
-
 
